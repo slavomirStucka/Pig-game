@@ -13,3 +13,5 @@
 2. Take turns rolling the dice.
 3. Accumulate points and decide when to hold your score. Avoid rolling a 1!
 4. The first player to reach 100 points wins!
+
+![Screenshot of Pig Game](screenshot.png)
